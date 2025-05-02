@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 # kyc-v-portal
+<<<<<<< HEAD
+=======
+=======
+# kyc-v-portal
+>>>>>>> 1fd54e7 (initial commit)
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -28,6 +33,10 @@ npm run dev
 ```sh
 npm run build
 ```
+<<<<<<< HEAD
 =======
 # kyc-v-portal
 >>>>>>> 54a82f8 (Initial commit)
+=======
+>>>>>>> 1e8bfbb (initial commit)
+>>>>>>> 1fd54e7 (initial commit)

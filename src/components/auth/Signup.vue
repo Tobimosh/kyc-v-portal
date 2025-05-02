@@ -82,7 +82,6 @@ function onSubmit() {
               errors.accountType
                 ? 'border-red-500'
                 : 'border-gray-300 focus:ring-2 focus:ring-blue-400',
-              disabled ? 'bg-gray-100 cursor-not-allowed' : '',
             ]"
           >
             <option value="business">Business</option>
